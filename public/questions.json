@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nigel asked if Ann could lend him her hairdryer for a while.",
+      "hint": "(borrow)",
+      "answer": "Nigel asked to borrow Ann's hairdryer for a while.",
+      "explanation": "'Lend' → 'Borrow': Khi chuyển từ 'lend' sang 'borrow', cần chuyển đại từ và cấu trúc từ gián tiếp sang trực tiếp dùng 'to + verb'.",
+      "translation_question": "Nigel hỏi Ann rằng cô ấy có thể cho anh mượn máy sấy tóc một lúc không.",
+      "translation_answer": "Nigel đã hỏi mượn máy sấy tóc của Ann trong một lúc."
+    },
+    {
+      "id": 2,
+      "question": "That man stole a valuable picture but he was never punished.",
+      "hint": "(got)",
+      "answer": "That man got away with stealing a valuable picture.",
+      "explanation": "'Get away with something' nghĩa là thoát khỏi sự trừng phạt dù làm điều sai trái.",
+      "translation_question": "Người đàn ông đó đã lấy trộm một bức tranh có giá trị nhưng không bao giờ bị trừng phạt.",
+      "translation_answer": "Người đàn ông đó đã thoát khỏi sự trừng phạt khi lấy trộm bức tranh."
+    },
+    {
+      "id": 3,
+      "question": "Hitch-hiking is less popular now than ten years ago.",
+      "hint": "(not)",
+      "answer": "Hitch-hiking is not as popular as it was ten years ago.",
+      "explanation": "Cấu trúc 'not as ... as ...' dùng để so sánh sự suy giảm về mức độ phổ biến.",
+      "translation_question": "Đi nhờ xe ít phổ biến hơn so với mười năm trước.",
+      "translation_answer": "Đi nhờ xe không còn phổ biến như mười năm trước."
+    },
+    {
+      "id": 4,
+      "question": "“Why did you cancel the party, Lucy?” Martin asked.",
+      "hint": "(called)",
+      "answer": "Martin asked Lucy why she had called off the party.",
+      "explanation": "'Call off' là cụm động từ nghĩa là 'hủy bỏ'; cần đổi thì quá khứ đơn sang quá khứ hoàn thành trong câu gián tiếp.",
+      "translation_question": "Martin hỏi Lucy tại sao cô ấy hủy bữa tiệc.",
+      "translation_answer": "Martin đã hỏi Lucy tại sao cô ấy lại hủy bữa tiệc."
+    },
+    {
+      "id": 5,
+      "question": "“Do not leave your belongings unattended.” the group leader said to the tourists.",
+      "hint": "(to)",
+      "answer": "The group leader told the tourists not to leave their belongings unattended.",
+      "explanation": "Câu mệnh lệnh gián tiếp dùng cấu trúc 'told someone not to do something' để diễn đạt lời khuyên hoặc cảnh báo.",
+      "translation_question": "Trưởng nhóm nói với khách du lịch không để hành lý mà không trông coi.",
+      "translation_answer": "Trưởng nhóm đã bảo khách du lịch không nên để hành lý mà không trông coi."
+    },
+    {
+      "id": 6,
+      "question": "Mrs. Green didn’t buy her son a bicycle because she didn’t have enough money.",
+      "hint": "(afford)",
+      "answer": "Mrs. Green couldn’t afford to buy her son a bicycle.",
+      "explanation": "'Afford to do something' nghĩa là đủ khả năng tài chính để làm việc gì.",
+      "translation_question": "Bà Green không mua xe đạp cho con trai vì không đủ tiền.",
+      "translation_answer": "Bà Green không đủ tiền để mua xe đạp cho con trai."
+    },
+    {
+      "id": 7,
+      "question": "He will not buy that phone simply because he is no longer interested.",
+      "hint": "(lost)",
+      "answer": "He has lost interest in buying that phone.",
+      "explanation": "Cấu trúc 'lose interest in + V-ing' dùng để nói ai đó không còn hứng thú với điều gì.",
+      "translation_question": "Anh ấy sẽ không mua điện thoại đó vì không còn hứng thú nữa.",
+      "translation_answer": "Anh ấy đã mất hứng thú với việc mua chiếc điện thoại đó."
+    },
+    {
+      "id": 8,
+      "question": "Although it looks easy, that dance is actually quite difficult.",
+      "hint": "(not)",
+      "answer": "That dance is not as easy as it looks.",
+      "explanation": "'Not as ... as ...' là cấu trúc dùng để phủ định sự tương đồng trong so sánh.",
+      "translation_question": "Mặc dù trông có vẻ dễ, điệu nhảy đó thực ra khá khó.",
+      "translation_answer": "Điệu nhảy đó không dễ như vẻ bề ngoài."
+    },
+    {
+      "id": 9,
+      "question": "Mark did as I suggested and bought a new computer.",
+      "hint": "(advice)",
+      "answer": "Mark took my advice and bought a new computer.",
+      "explanation": "'Take someone's advice' là cụm cố định thể hiện việc làm theo lời khuyên.",
+      "translation_question": "Mark đã làm như tôi đề nghị và mua máy tính mới.",
+      "translation_answer": "Mark đã nghe theo lời khuyên của tôi và mua một chiếc máy tính mới."
+    },
+    {
+      "id": 10,
+      "question": "No teacher will tolerate bad behavior in class.",
+      "hint": "(put)",
+      "answer": "No teacher will put up with bad behavior in class.",
+      "explanation": "'Put up with' là cụm động từ mang nghĩa 'chịu đựng điều gì đó khó chịu'.",
+      "translation_question": "Không giáo viên nào sẽ chịu đựng hành vi xấu trong lớp học.",
+      "translation_answer": "Không giáo viên nào sẽ chịu đựng hành vi xấu trong lớp."
+    },
+    {
+      "id": 11,
+      "question": "Chris is hungry because the last time he ate something was Thursday evening.",
+      "hint": "(not)",
+      "answer": "Chris is hungry because he hasn’t eaten anything since Thursday evening.",
+      "explanation": "Cấu trúc hiện tại hoàn thành với 'since' để diễn tả hành động chưa xảy ra từ một thời điểm trong quá khứ.",
+      "translation_question": "Chris đói vì bữa cuối cùng anh ấy ăn là tối thứ năm.",
+      "translation_answer": "Chris đói vì anh ấy chưa ăn gì kể từ tối thứ năm."
+    },
+    {
+      "id": 12,
+      "question": "We will not be able to solve this difficult problem.",
+      "hint": "(impossible)",
+      "answer": "It will be impossible to solve this difficult problem.",
+      "explanation": "Dùng cấu trúc 'It will be impossible to + verb' để nhấn mạnh sự không thể.",
+      "translation_question": "Chúng ta sẽ không thể giải quyết vấn đề khó khăn này.",
+      "translation_answer": "Sẽ không thể giải quyết vấn đề khó khăn này."
+    },
+    {
+      "id": 13,
+      "question": "Peter is angry because Joanna did not accept his invitation.",
+      "hint": "(turn)",
+      "answer": "If Joanna hadn’t turned down his invitation, Peter wouldn’t be angry.",
+      "explanation": "Câu điều kiện loại 3 để nói về sự việc trong quá khứ dẫn đến hậu quả hiện tại.",
+      "translation_question": "Peter tức giận vì Joanna từ chối lời mời của anh ấy.",
+      "translation_answer": "Nếu Joanna không từ chối lời mời, Peter đã không tức giận."
+    },
+    {
+      "id": 14,
+      "question": "I don’t think I can manage if my sister doesn’t help me.",
+      "hint": "(do)",
+      "answer": "I think I can’t do my steps/help/do it without my sister’s help.",
+      "explanation": "Sử dụng cấu trúc 'can’t do ... without ...' để nhấn mạnh sự cần thiết của ai đó.",
+      "translation_question": "Tôi không nghĩ mình có thể xoay sở nếu không có sự giúp đỡ của em gái.",
+      "translation_answer": "Tôi nghĩ mình không thể làm được nếu không có sự giúp đỡ của em gái."
+    },
+    {
+      "id": 15,
+      "question": "“Have you finished your homework yet?” Mr. Brown asked his daughter.",
+      "hint": "(if)",
+      "answer": "Mr. Brown asked his daughter if she had finished her homework.",
+      "explanation": "Câu tường thuật nghi vấn yes/no dùng 'if' + lùi thì (hiện tại hoàn thành → quá khứ hoàn thành).",
+      "translation_question": "Ông Brown hỏi con gái liệu cô ấy đã làm xong bài tập chưa.",
+      "translation_answer": "Ông Brown hỏi con gái rằng cô ấy đã làm xong bài tập chưa."
+    }
+  ]
+}
